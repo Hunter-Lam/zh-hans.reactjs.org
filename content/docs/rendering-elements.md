@@ -8,7 +8,7 @@ prev: introducing-jsx.html
 next: components-and-props.html
 ---
 
-元素是构成 React 应用的最小砖块。
+元素是构成 React 应用的最小单元。
 
 元素描述了你在屏幕上想看到的内容。
 
